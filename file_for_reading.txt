@@ -1,0 +1,13 @@
+Python File Handling
+
+In our File Handling section you will learn how to open, read, write, and delete files.
+
+Python File Handling
+Python Database Handling
+
+In our database section you will learn how to access and work with MySQL and MongoDB databases:
+
+Python MySQL Tutorial
+
+Python MongoDB Tutorial
+Python Exercises
